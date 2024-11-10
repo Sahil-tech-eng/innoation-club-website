@@ -1,0 +1,159 @@
+*{
+  padding: 0px;
+  margin:0px;
+  
+}
+html{
+  background-image:url("/HD-wallpaper-glitter-ombre-blue-purple-shiny-sparkle-sparkles-thumbnail.jpg") ;
+  
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+p{margin:0px;
+  display: inline-block;
+  color:#0D31A6;
+  font-size:50px;
+}
+.nav{
+  height:60px;
+  padding-left:50px;
+  padding-top: 0px;
+  background-color:#6176BC;
+  cursor: pointer;
+}
+.navb{
+  display: inline-block;
+  position: absolute;
+  right:30px;
+  height: 50px;
+  width:50px;
+}
+.img{
+  height:300px;
+  background-image:url("/businessman-working-flying-like-superhero-260nw-1210813324.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.two{
+  color: white;
+  font-weight: 500;
+  
+}
+.headlines{
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: cente;
+ margin-top:10px; 
+  margin-bottom:10px; 
+ background-color:#4470FF;
+ border-radius: 5px;
+}
+.h1{
+  text-align: center;
+  font-size:60px;
+  text-decoration-line: underline;
+  text-decoration-color:blue;
+  margin-bottom: 10px;
+}
+.three{
+ 
+  color:black;
+}
+.divone{
+  padding:30px;
+  font-size:5px;
+  font-weight:4#967FC000;
+  background-color: white;
+  
+}
+.div2{
+  background-image:url("/canva-purple-aesthetic-positive-quote-stay-gold-wallpaper-0u8YSjvboPw.jpg");
+  margin:40px;
+  padding: 10px;
+}
+.h2{
+  text-align: center;
+  font-size:60px;
+  text-decoration-line: underline;
+  text-decoration-color: blue ;
+  margin-bottom: 10px;
+}
+.four{
+  color: black;
+}
+.div3{
+  background-color:#BB1FD6A8;
+}
+.five{
+  color:black;
+}
+.div3{
+  margin:5px;
+  padding: 30px;
+  height: 550px;
+  background-color:black;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.div4{
+  text-align: center;
+  background-color: none;
+  margin:20px;
+  
+}
+.six{background-color:none;
+  color: #545C61 ;
+}
+.fa {
+  margin:50px;
+  padding: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+   border-radius:50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  position:center;
+  background: #8A949B;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.seven{
+  text-align: center;
+  color: #545C61;
+}
+.eight{
+  font-size:20px;
+  color:#545C61;
+}
